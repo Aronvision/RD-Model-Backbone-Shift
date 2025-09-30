@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Dataset (too large)
+RD4AD-main/data/
+data/
+
+# Model checkpoints (can be large)
+*.pth
+*.pt
+checkpoints/
+saved_models/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+_ul
+*.tmp
+*.log
+*.cache
+
+# Results (optional - remove if you want to include results)
+# results/
+# outputs/

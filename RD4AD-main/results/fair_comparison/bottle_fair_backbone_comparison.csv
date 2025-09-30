@@ -1,0 +1,3 @@
+model,threshold,accuracy,precision,recall,f1,roc_auc,evaluation_method
+ConvNeXt RD (ResNet-style),0.06,0.9759036144578314,0.9692307692307692,1.0,0.984375,0.9912698412698412,ResNet-style
+ResNet50 RD,0.09,1.0,1.0,1.0,1.0,1.0,Standard
