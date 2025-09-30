@@ -102,6 +102,3 @@ This project is licensed under the MIT License.
 - MVTec Software for providing the AD dataset
 - Original RD paper authors for the methodology
 - PyTorch team for the framework
-
----
-🤖 Generated with [Claude Code](https://claude.com/claude-code)
